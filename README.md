@@ -1,2 +1,6 @@
-# Datasets_Kaagle
-Bases de dados do kaagle que foram utilizadas em algum projeto de DS
+# Datasets Kaggle
+---
+Bases de dados disponíveis no site [kaggle](https://www.kaggle.com/) que foram utilizadas em algum projeto de Data Science:
+
+* 
+
